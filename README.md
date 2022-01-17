@@ -1,5 +1,6 @@
-<img src= "oneeye.png" width='300'/>
-
+<html>
+  <img src= "oneeye.png" width='300'/>
+</html>
 # Eye-Exercise
 ## Description
 This project contains code that will make the eyes graphics follow your mouse arrow as you move it across the screen. 
