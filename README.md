@@ -1,7 +1,5 @@
 <html>
-  <head>
-    <img src="oneeye.jpg" />
-  </head>
+   <img src="oneeye.jpg" />
   </html>
 # Eye-Exercise
 ## Description
