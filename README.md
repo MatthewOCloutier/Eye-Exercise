@@ -1,5 +1,6 @@
 
 # Eye-Exercise
+<a href="https://github.com/MatthewOCloutier/Eye-Exercise/tree/main/eye-exercise">Eye Movement Exercise</a>
 ## Description
 This project contains code that will make the eyes graphics follow your mouse arrow as you move it across the screen. 
 ### How to Run
